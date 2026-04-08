@@ -51,5 +51,5 @@ Built from three sources: `sessions.csv`, `transactions.csv`, and `product_categ
 ## Deliverables
 
 - [`reports/WUDAC Report Non-tech.pdf`](reports/WUDAC%20Report%20Non-tech.pdf) — executive summary for business stakeholders
-- [`reports/WUDAC Report Tech.pdf`](reports/WUDAC%20Report%20Tech.pdf) — full technical walkthrough
+- [`Technical Report`](https://github.com/PakwhanNK/wudac-datathon2025/blob/main/Report/WUDAC%20Report%20Tech.pdf) — full technical walkthrough
 
