@@ -26,9 +26,9 @@ Built from three sources: `sessions.csv`, `transactions.csv`, and `product_categ
 
 ## Approach
 
-**1. K-Means Clustering** — grouped users into 4 personas based on browsing patterns, demographics, and purchase behavior (cluster count selected via scree plot).
+**1. K-Means Clustering**: grouped users into 4 personas (determined by scree plot) based on browsing patterns, demographics, and purchase behavior (cluster count selected via scree plot).
 
-**2. Logistic Regression** — one model per cluster to identify which features most strongly predict conversion within each segment.
+**2. Logistic Regression**: one model per cluster to identify which features most strongly predict conversion within each segment.
 
 ---
 
@@ -50,6 +50,6 @@ Built from three sources: `sessions.csv`, `transactions.csv`, and `product_categ
 
 ## Deliverables
 
-- [`reports/WUDAC Report Non-tech.pdf`](reports/WUDAC%20Report%20Non-tech.pdf) — executive summary for business stakeholders
-- [`Technical Report`](https://github.com/PakwhanNK/wudac-datathon2025/blob/main/Report/WUDAC%20Report%20Tech.pdf) — full technical walkthrough
+- [`reports/WUDAC Report Non-tech.pdf`](reports/WUDAC%20Report%20Non-tech.pdf)](https://github.com/PakwhanNK/wudac-datathon2025/blob/main/Report/WUDAC%20Report%20Non-tech.pdf): executive summary for business stakeholders
+- [`reports/WUDAC Report Tech.pdf`](https://github.com/PakwhanNK/wudac-datathon2025/blob/main/Report/WUDAC%20Report%20Tech.pdf): full technical walkthrough
 
