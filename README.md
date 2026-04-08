@@ -1,6 +1,6 @@
 # eBay User Segmentation & Conversion Analysis
 
-A datathon project that segments eBay users into behavioral personas and identifies what drives purchases — turning raw marketplace data into actionable business strategy.
+A datathon project (2025) that segments eBay users into behavioral personas and identifies what drives purchases.
 
 ---
 
